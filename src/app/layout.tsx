@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "Diamond Stats - Baseball Statistics Tracking",
+  description: "Track, analyze, and conquer your baseball statistics with Diamond Stats",
 };
 
 export default function RootLayout({

@@ -5,6 +5,8 @@ import { Footer } from '@/components/baseball/Footer';
 import { mockPlayers } from '@/lib/baseball-data';
 import Link from 'next/link';
 
+export const dynamic = 'force-dynamic';
+
 export default function PlayersPage() {
   return (
     <div className="min-h-screen flex flex-col bg-[hsl(var(--background))]">
